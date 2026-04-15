@@ -1,4 +1,4 @@
-FAMILY_SLUG := FAMILY_SLUG_PLACEHOLDER
+FAMILY_SLUG := patiwat
 DESIGNSPACE := sources/$(FAMILY_SLUG).designspace
 CONFIG      := sources/config.yaml
 

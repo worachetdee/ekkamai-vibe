@@ -4,9 +4,9 @@
 # Build: gftools builder sources/config.yaml
 
 sources:
-  - FAMILY_SLUG_PLACEHOLDER.designspace
+  - patiwat.designspace
 
-familyName: FAMILY_NAME_PLACEHOLDER
+familyName: Patiwat
 
 axisOrder:
   - wght
@@ -35,7 +35,7 @@ stat:
         value: 900
 
 instances:
-  FAMILY_NAME_PLACEHOLDER:
+  Patiwat:
     - coordinates: { wght: 100 }
     - coordinates: { wght: 300 }
     - coordinates: { wght: 400 }

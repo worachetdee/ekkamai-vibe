@@ -4,4 +4,4 @@ When adding J Random Contributor's name to this file, either J's name or J's
 organization's name should be added to AUTHORS.txt, depending on whether
 copyright is held by the individual or the organization.
 
-DESIGNER_NAME_PLACEHOLDER
+Worachet Deeyai

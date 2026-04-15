@@ -1,4 +1,4 @@
-Copyright 2026 The FAMILY_NAME_PLACEHOLDER Project Authors (GITHUB_URL_PLACEHOLDER), with Reserved Font Name "FAMILY_NAME_PLACEHOLDER".
+Copyright 2026 The Patiwat Project Authors (https://github.com/worachetdee/patiwat), with Reserved Font Name "Patiwat".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
