@@ -1,0 +1,29 @@
+# gftools builder config for Ekkamai Vibe
+# Run: gftools builder sources/config.yaml
+#
+# NOTE: Add your editable source file(s) below. Google Fonts requires an
+# editable source (.glyphs, .glyphspackage, or UFO+designspace) — TTFs alone
+# are not accepted. Place the source(s) in this sources/ directory and list
+# them here.
+
+sources:
+  - EkkamaiVibe.glyphs   # replace with your actual source filename
+
+familyName: Ekkamai Vibe
+
+axisOrder:
+  - wght
+
+outputDir: ../fonts
+buildStatic: true
+buildVariable: false
+buildWebfont: false
+
+# Instances to export as static TTFs. Match the wght values in your source.
+instances:
+  Ekkamai Vibe:
+    - coordinates: { wght: 100 }  # Thin
+    - coordinates: { wght: 300 }  # Light
+    - coordinates: { wght: 400 }  # Regular
+    - coordinates: { wght: 700 }  # Bold
+    - coordinates: { wght: 900 }  # Heavy

@@ -1,0 +1,4 @@
+This is the list of authors of the Ekkamai Vibe project for copyright purposes.
+
+Worachet Deeyai <worachet.dee@gmail.com>
+Ekkamai Foundry

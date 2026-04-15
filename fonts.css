@@ -1,0 +1,41 @@
+/* Ekkamai Vibe — @font-face declarations */
+
+@font-face {
+  font-family: "Ekkamai Vibe";
+  src: url("EkkamaiVibe-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ekkamai Vibe";
+  src: url("EkkamaiVibe-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ekkamai Vibe";
+  src: url("EkkamaiVibe-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ekkamai Vibe";
+  src: url("EkkamaiVibe-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ekkamai Vibe";
+  src: url("EkkamaiVibe-Heavy.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
