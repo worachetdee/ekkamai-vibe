@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="FAMILY_SLUG_PLACEHOLDER-Thin.ufo"    name="Thin"    familyname="FAMILY_NAME_PLACEHOLDER" stylename="Thin">
+      <location><dimension name="weight" xvalue="100"/></location>
+    </source>
+    <source filename="FAMILY_SLUG_PLACEHOLDER-Light.ufo"   name="Light"   familyname="FAMILY_NAME_PLACEHOLDER" stylename="Light">
+      <location><dimension name="weight" xvalue="300"/></location>
+    </source>
+    <source filename="FAMILY_SLUG_PLACEHOLDER-Regular.ufo" name="Regular" familyname="FAMILY_NAME_PLACEHOLDER" stylename="Regular">
+      <location><dimension name="weight" xvalue="400"/></location>
+    </source>
+    <source filename="FAMILY_SLUG_PLACEHOLDER-Bold.ufo"    name="Bold"    familyname="FAMILY_NAME_PLACEHOLDER" stylename="Bold">
+      <location><dimension name="weight" xvalue="700"/></location>
+    </source>
+    <source filename="FAMILY_SLUG_PLACEHOLDER-Heavy.ufo"   name="Heavy"   familyname="FAMILY_NAME_PLACEHOLDER" stylename="Heavy">
+      <location><dimension name="weight" xvalue="900"/></location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="FAMILY_NAME_PLACEHOLDER" stylename="Thin"    stylemapfamilyname="FAMILY_NAME_PLACEHOLDER Thin"    stylemapstylename="regular"><location><dimension name="weight" xvalue="100"/></location></instance>
+    <instance familyname="FAMILY_NAME_PLACEHOLDER" stylename="Light"   stylemapfamilyname="FAMILY_NAME_PLACEHOLDER Light"   stylemapstylename="regular"><location><dimension name="weight" xvalue="300"/></location></instance>
+    <instance familyname="FAMILY_NAME_PLACEHOLDER" stylename="Regular" stylemapfamilyname="FAMILY_NAME_PLACEHOLDER"         stylemapstylename="regular"><location><dimension name="weight" xvalue="400"/></location></instance>
+    <instance familyname="FAMILY_NAME_PLACEHOLDER" stylename="Bold"    stylemapfamilyname="FAMILY_NAME_PLACEHOLDER"         stylemapstylename="bold"   ><location><dimension name="weight" xvalue="700"/></location></instance>
+    <instance familyname="FAMILY_NAME_PLACEHOLDER" stylename="Heavy"   stylemapfamilyname="FAMILY_NAME_PLACEHOLDER Heavy"   stylemapstylename="regular"><location><dimension name="weight" xvalue="900"/></location></instance>
+  </instances>
+</designspace>

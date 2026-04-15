@@ -1,0 +1,81 @@
+# Thai shaping feature starter
+#
+# Include this file from each master UFO's features.fea:
+#     include(../features/thai.fea);
+#
+# FontLab and Glyphs can auto-generate `mark` and `mkmk` from anchors —
+# leave those features out of this file and let the tool build them.
+#
+# GLYPH NAMING: this template uses AGL-style names (uni0E01, uni0E48, ...)
+# or human names (kokai, maihanakat, ...). Either works — keep one scheme
+# consistent across your font.
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem thai dflt;
+
+# --------------------------------------------------------------------------
+# Glyph classes — adjust to match your glyph names
+# --------------------------------------------------------------------------
+
+# Above-base vowels that sit on the head of a consonant (ิ ี ึ ื ็ ํ)
+@THAI_ABOVE_VOWELS = [uni0E34 uni0E35 uni0E36 uni0E37 uni0E47 uni0E4D];
+
+# Tone marks (่ ้ ๊ ๋) + thanthakhat (์) + yamakkan (๎) + nikhahit (ํ)
+@THAI_TONES = [uni0E48 uni0E49 uni0E4A uni0E4B uni0E4C uni0E4E];
+
+# Below-base vowel (ุ ู) + phinthu (ฺ)
+@THAI_BELOW_VOWELS = [uni0E38 uni0E39 uni0E3A];
+
+# Tall consonants where above-vowels/tones need lowered positioning
+# (ascender variants are commonly named with .low or .narrow suffixes)
+@THAI_ASCENDERS = [uni0E1B uni0E1D uni0E1F uni0E2C];  # ป ฝ ฟ ฬ
+
+# --------------------------------------------------------------------------
+# ccmp — required decomposition + reordering for Thai tone stacking
+# --------------------------------------------------------------------------
+
+feature ccmp {
+    script thai;
+
+    # Example: when a nikhahit is followed by a tone, decompose to a pure
+    # nikhahit + tone pair so the mark positioning logic can place each.
+    # Add your project-specific decompositions here.
+
+} ccmp;
+
+# --------------------------------------------------------------------------
+# locl — language-specific variants
+# --------------------------------------------------------------------------
+
+feature locl {
+    script thai;
+    language THA;
+    # example: swap to loopless forms under Thai locale
+    # sub kokai by kokai.loopless;
+} locl;
+
+# --------------------------------------------------------------------------
+# liga — common Latin ligatures
+# --------------------------------------------------------------------------
+
+feature liga {
+    # sub f i by f_i;
+    # sub f l by f_l;
+} liga;
+
+# --------------------------------------------------------------------------
+# NOTES on mark / mkmk
+# --------------------------------------------------------------------------
+#
+# DO NOT hand-write mark/mkmk here. In your source:
+#
+#   1. Add a `top` anchor to every Thai consonant glyph (position where an
+#      above-vowel/tone should sit).
+#   2. Add a `bottom` anchor to every consonant where below-vowels go.
+#   3. Add `_top` / `_bottom` anchors to every mark glyph (positions
+#      ignored — names matter).
+#   4. FontLab / Glyphs / ufo2ft generates `mark` + `mkmk` automatically
+#      during compile.
+#
+# Without anchors, tone marks on tall consonants (ป ฝ ฟ ฬ) will collide.

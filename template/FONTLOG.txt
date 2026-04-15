@@ -1,0 +1,31 @@
+FONTLOG for the FAMILY_NAME_PLACEHOLDER font family
+---------------------------------------------------
+
+This file provides detailed information on the FAMILY_NAME_PLACEHOLDER font
+software. This information should be distributed along with the
+FAMILY_NAME_PLACEHOLDER fonts and any derivative works.
+
+
+Basic Font Information
+----------------------
+
+FAMILY_NAME_PLACEHOLDER is a Thai–Latin sans-serif variable typeface family.
+
+
+ChangeLog
+---------
+
+YYYY-MM-DD (DESIGNER_NAME_PLACEHOLDER) FAMILY_NAME_PLACEHOLDER v1.000
+- Initial release.
+
+
+Acknowledgements
+----------------
+
+If you make modifications be sure to add your name (N), email (E),
+web-address (W) and description (D).
+
+N: DESIGNER_NAME_PLACEHOLDER
+E:
+W:
+D: Original designer

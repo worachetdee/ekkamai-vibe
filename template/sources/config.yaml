@@ -1,0 +1,43 @@
+# gftools builder config
+# docs: https://github.com/googlefonts/gftools/tree/main/Lib/gftools/builder
+#
+# Build: gftools builder sources/config.yaml
+
+sources:
+  - FAMILY_SLUG_PLACEHOLDER.designspace
+
+familyName: FAMILY_NAME_PLACEHOLDER
+
+axisOrder:
+  - wght
+
+outputDir: ../fonts
+buildStatic: true
+buildVariable: true
+buildWebfont: false
+
+# Google Fonts vertical-metrics fixer applied automatically
+stat:
+  - name: Weight
+    tag: wght
+    values:
+      - name: Thin
+        value: 100
+      - name: Light
+        value: 300
+      - name: Regular
+        value: 400
+        flags: 2          # ElidableAxisValueName
+        linkedValue: 700
+      - name: Bold
+        value: 700
+      - name: Heavy
+        value: 900
+
+instances:
+  FAMILY_NAME_PLACEHOLDER:
+    - coordinates: { wght: 100 }
+    - coordinates: { wght: 300 }
+    - coordinates: { wght: 400 }
+    - coordinates: { wght: 700 }
+    - coordinates: { wght: 900 }

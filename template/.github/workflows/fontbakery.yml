@@ -1,0 +1,36 @@
+name: fontbakery
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: pip install -r requirements.txt
+
+      - name: Build
+        run: make build
+
+      - name: Font Bakery (Google Fonts profile)
+        run: |
+          fontbakery check-googlefonts --succinct \
+            --exclude-checkid googlefonts/description/broken_links \
+            --exclude-checkid googlefonts/metadata/unreachable_subsetting \
+            fonts/variable/*.ttf fonts/ttf/*.ttf
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: fonts
+          path: fonts/

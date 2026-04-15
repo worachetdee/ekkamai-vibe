@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+venv/
+.venv/
+master_ufo/
+instance_ufo/
+variable_ttf/
+fontbakery-report.*
+fonts/

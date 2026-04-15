@@ -1,0 +1,19 @@
+# Latin shaping features (optional — uncomment as needed)
+
+feature aalt {
+    # access alternates
+} aalt;
+
+feature case {
+    # sub hyphen by hyphen.uc;
+} case;
+
+feature frac {
+    # sub [one two three four five six seven eight nine]' divislash
+    #     [one two three four five six seven eight nine]' by fraction;
+} frac;
+
+feature ordn {
+    # sub [a A] by ordfeminine;
+    # sub [o O] by ordmasculine;
+} ordn;
