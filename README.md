@@ -1,6 +1,6 @@
 # Ekkamai Vibe
 
-A contemporary Thai–Latin sans-serif typeface family in five weights, designed and released by **Ekkamai Foundry**.
+A contemporary Thai–Latin sans-serif typeface family in five weights, designed and released by **Worachet Deeyai**.
 
 Ekkamai Vibe is built for a generation that wants to speak with clarity, edge, and honesty — whether on a billboard above the expressway, a phone screen at midnight, or the cover of a small-press book down a Bangkok side street.
 
@@ -59,13 +59,11 @@ You may **not**:
 
 ## Credits
 
-- **Design & Production:** Ekkamai Foundry
-- **Art Direction:** [Worachet Deeyai](https://worachet.com) (Ched)
-- **Released by:** Stratophic
+- **Design & Production:** [Worachet Deeyai](https://worachet.com) (Ched)
 
 ---
 
 ## Contact
 
-- Web: [ekkamai.foundry](https://ekkamai.foundry)
-- Foundry: Ekkamai Foundry · Tokyo · Bangkok
+- Web: [worachet.com](https://worachet.com)
+- GitHub: [@worachetdee](https://github.com/worachetdee)

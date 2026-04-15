@@ -10,8 +10,8 @@ Basic Font Information
 ----------------------
 
 Ekkamai Vibe is a contemporary Thai–Latin sans-serif typeface family in five
-weights (Thin, Light, Regular, Bold, Heavy), designed and released by Ekkamai
-Foundry. It is built for clarity, edge, and honesty at any scale — from
+weights (Thin, Light, Regular, Bold, Heavy), designed and released by Worachet
+Deeyai. It is built for clarity, edge, and honesty at any scale — from
 billboards to phone screens to small-press book covers.
 
 Languages supported: Thai (full character set including tone marks and Thai
@@ -21,7 +21,7 @@ numerals ๐–๙), Basic Latin, Latin-1 Supplement, and common European diacri
 ChangeLog
 ---------
 
-15 April 2026 (Ekkamai Foundry) Ekkamai Vibe v1.001
+15 April 2026 (Worachet Deeyai) Ekkamai Vibe v1.001
 - Initial release of five weights: Thin, Light, Regular, Bold, Heavy.
 
 
