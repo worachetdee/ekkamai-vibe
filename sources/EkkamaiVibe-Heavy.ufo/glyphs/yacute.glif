@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="2">
+  <advance width="56"/>
+  <unicode hex="00FD"/>
+  <unicode hex="F719"/>
+  <outline>
+    <contour>
+      <point x="-270" y="-252" type="qcurve" smooth="yes"/>
+      <point x="-270" y="-117" type="line"/>
+      <point x="-158" y="-117" type="line"/>
+      <point x="-158" y="-252" type="line" smooth="yes"/>
+      <point x="-158" y="-263"/>
+      <point x="-150" y="-275"/>
+      <point x="-138" y="-275" type="qcurve" smooth="yes"/>
+      <point x="-126" y="-275"/>
+      <point x="-118" y="-263"/>
+      <point x="-118" y="-252" type="qcurve" smooth="yes"/>
+      <point x="-118" y="-117" type="line"/>
+      <point x="-8" y="-117" type="line"/>
+      <point x="-8" y="-252" type="line" smooth="yes"/>
+      <point x="-8" y="-283"/>
+      <point x="-29" y="-328"/>
+      <point x="-66" y="-358"/>
+      <point x="-116" y="-373"/>
+      <point x="-144" y="-373" type="qcurve" smooth="yes"/>
+      <point x="-169" y="-373"/>
+      <point x="-214" y="-354"/>
+      <point x="-249" y="-322"/>
+      <point x="-270" y="-278"/>
+    </contour>
+  </outline>
+</glyph>

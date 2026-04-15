@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="2">
+  <advance width="18"/>
+  <unicode hex="00D6"/>
+  <unicode hex="0E36"/>
+  <outline>
+    <contour>
+      <point x="-161" y="689" type="qcurve" smooth="yes"/>
+      <point x="-477" y="689" type="line"/>
+      <point x="-477" y="764" type="line"/>
+      <point x="-261" y="764" type="line"/>
+      <point x="-264" y="775"/>
+      <point x="-264" y="787" type="qcurve" smooth="yes"/>
+      <point x="-264" y="807"/>
+      <point x="-246" y="844"/>
+      <point x="-216" y="872"/>
+      <point x="-178" y="888"/>
+      <point x="-158" y="888" type="qcurve" smooth="yes"/>
+      <point x="-138" y="888"/>
+      <point x="-103" y="872"/>
+      <point x="-78" y="845"/>
+      <point x="-63" y="810"/>
+      <point x="-63" y="790" type="qcurve" smooth="yes"/>
+      <point x="-63" y="770"/>
+      <point x="-78" y="734"/>
+      <point x="-105" y="706"/>
+      <point x="-141" y="689"/>
+    </contour>
+    <contour>
+      <point x="-163" y="819" type="qcurve" smooth="yes"/>
+      <point x="-176" y="819"/>
+      <point x="-193" y="801"/>
+      <point x="-193" y="788" type="qcurve" smooth="yes"/>
+      <point x="-193" y="774"/>
+      <point x="-175" y="758"/>
+      <point x="-161" y="758" type="qcurve" smooth="yes"/>
+      <point x="-148" y="758"/>
+      <point x="-131" y="776"/>
+      <point x="-131" y="789" type="qcurve" smooth="yes"/>
+      <point x="-131" y="803"/>
+      <point x="-149" y="819"/>
+    </contour>
+  </outline>
+</glyph>

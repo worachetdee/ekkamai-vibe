@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring" format="2">
+  <advance width="528"/>
+  <unicode hex="00E5"/>
+  <unicode hex="0E45"/>
+  <outline>
+    <contour>
+      <point x="59" y="577" type="qcurve"/>
+      <point x="44" y="593" type="line"/>
+      <point x="60" y="605"/>
+      <point x="103" y="620"/>
+      <point x="151" y="630"/>
+      <point x="198" y="634"/>
+      <point x="217" y="634" type="qcurve" smooth="yes"/>
+      <point x="257" y="634"/>
+      <point x="336" y="615"/>
+      <point x="400" y="575"/>
+      <point x="440" y="513"/>
+      <point x="440" y="471" type="qcurve" smooth="yes"/>
+      <point x="440" y="-188" type="line"/>
+      <point x="418" y="-188" type="line"/>
+      <point x="418" y="471" type="line" smooth="yes"/>
+      <point x="418" y="505"/>
+      <point x="400" y="533" type="qcurve" smooth="yes"/>
+      <point x="386" y="554"/>
+      <point x="344" y="585"/>
+      <point x="296" y="602"/>
+      <point x="244" y="609"/>
+      <point x="217" y="609" type="qcurve" smooth="yes"/>
+      <point x="202" y="609"/>
+      <point x="159" y="607"/>
+      <point x="115" y="600"/>
+      <point x="74" y="588"/>
+    </contour>
+  </outline>
+</glyph>

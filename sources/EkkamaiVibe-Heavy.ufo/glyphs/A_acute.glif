@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute" format="2">
+  <advance width="659"/>
+  <unicode hex="00C1"/>
+  <unicode hex="0E21"/>
+  <outline>
+    <contour>
+      <point x="80" y="1" type="line"/>
+      <point x="80" y="603" type="line"/>
+      <point x="195" y="603" type="line"/>
+      <point x="195" y="261" type="line" smooth="yes"/>
+      <point x="195" y="226"/>
+      <point x="218" y="164"/>
+      <point x="261" y="119"/>
+      <point x="320" y="93"/>
+      <point x="356" y="93" type="qcurve" smooth="yes"/>
+      <point x="375" y="93"/>
+      <point x="413" y="103"/>
+      <point x="444" y="123"/>
+      <point x="463" y="154"/>
+      <point x="463" y="176" type="qcurve" smooth="yes"/>
+      <point x="463" y="603" type="line"/>
+      <point x="578" y="603" type="line"/>
+      <point x="578" y="176" type="line" smooth="yes"/>
+      <point x="578" y="131"/>
+      <point x="539" y="62"/>
+      <point x="476" y="15"/>
+      <point x="396" y="-9"/>
+      <point x="355" y="-9" type="qcurve" smooth="yes"/>
+      <point x="310" y="-9"/>
+      <point x="222" y="16"/>
+      <point x="187" y="45" type="qcurve"/>
+      <point x="183" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

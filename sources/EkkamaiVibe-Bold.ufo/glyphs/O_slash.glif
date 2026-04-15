@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+  <advance width="22"/>
+  <unicode hex="00D8"/>
+  <unicode hex="0E38"/>
+  <outline>
+    <contour>
+      <point x="-58" y="-322" type="line"/>
+      <point x="-131" y="-322" type="line"/>
+      <point x="-131" y="-207" type="line" smooth="yes"/>
+      <point x="-131" y="-180"/>
+      <point x="-171" y="-161"/>
+      <point x="-194" y="-161" type="qcurve"/>
+      <point x="-194" y="-85" type="line"/>
+      <point x="-182" y="-85" type="line" smooth="yes"/>
+      <point x="-157" y="-85"/>
+      <point x="-111" y="-103"/>
+      <point x="-78" y="-136"/>
+      <point x="-58" y="-180"/>
+      <point x="-58" y="-206" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

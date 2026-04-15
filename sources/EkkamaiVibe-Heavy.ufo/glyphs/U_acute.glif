@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uacute" format="2">
+  <advance width="60"/>
+  <unicode hex="00DA"/>
+  <unicode hex="0E3A"/>
+  <outline>
+    <contour>
+      <point x="-131" y="-81" type="qcurve" smooth="yes"/>
+      <point x="-131" y="-54"/>
+      <point x="-90" y="-21"/>
+      <point x="-64" y="-21" type="qcurve" smooth="yes"/>
+      <point x="-38" y="-21"/>
+      <point x="0" y="-55"/>
+      <point x="0" y="-81" type="qcurve" smooth="yes"/>
+      <point x="0" y="-107"/>
+      <point x="-39" y="-140"/>
+      <point x="-64" y="-140" type="qcurve" smooth="yes"/>
+      <point x="-90" y="-140"/>
+      <point x="-131" y="-108"/>
+    </contour>
+  </outline>
+</glyph>

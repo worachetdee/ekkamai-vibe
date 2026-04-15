@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="2">
+  <unicode hex="00FC"/>
+  <unicode hex="F718"/>
+  <outline>
+    <contour>
+      <point x="-145" y="-245" type="qcurve"/>
+      <point x="-145" y="-221" type="line"/>
+      <point x="-107" y="-226"/>
+      <point x="-61" y="-284"/>
+      <point x="-61" y="-322" type="qcurve" smooth="yes"/>
+      <point x="-61" y="-409" type="line"/>
+      <point x="-80" y="-409" type="line"/>
+      <point x="-80" y="-323" type="line" smooth="yes"/>
+      <point x="-80" y="-294"/>
+      <point x="-116" y="-251"/>
+    </contour>
+  </outline>
+</glyph>

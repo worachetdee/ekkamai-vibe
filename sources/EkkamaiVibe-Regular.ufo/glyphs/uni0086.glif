@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0086" format="2">
+  <unicode hex="0086"/>
+  <unicode hex="2020"/>
+  <unicode hex="F705"/>
+  <outline>
+    <contour>
+      <point x="-214" y="891" type="line"/>
+      <point x="-160" y="891" type="line"/>
+      <point x="-160" y="710" type="line"/>
+      <point x="-214" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="EkkamaiVibe-Thin.ufo" name="Ekkamai Vibe Thin" familyname="Ekkamai Vibe" stylename="Thin">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="EkkamaiVibe-Light.ufo" name="Ekkamai Vibe Light" familyname="Ekkamai Vibe" stylename="Light">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="EkkamaiVibe-Regular.ufo" name="Ekkamai Vibe Regular" familyname="Ekkamai Vibe" stylename="Regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="EkkamaiVibe-Bold.ufo" name="Ekkamai Vibe Bold" familyname="Ekkamai Vibe" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="EkkamaiVibe-Heavy.ufo" name="Ekkamai Vibe Heavy" familyname="Ekkamai Vibe" stylename="Heavy">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Ekkamai Vibe" stylename="Thin" filename="instances/EkkamaiVibe-Thin.ufo" stylemapfamilyname="Ekkamai Vibe Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance familyname="Ekkamai Vibe" stylename="Light" filename="instances/EkkamaiVibe-Light.ufo" stylemapfamilyname="Ekkamai Vibe Light" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance familyname="Ekkamai Vibe" stylename="Regular" filename="instances/EkkamaiVibe-Regular.ufo" stylemapfamilyname="Ekkamai Vibe" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="Ekkamai Vibe" stylename="Bold" filename="instances/EkkamaiVibe-Bold.ufo" stylemapfamilyname="Ekkamai Vibe" stylemapstylename="bold">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="Ekkamai Vibe" stylename="Heavy" filename="instances/EkkamaiVibe-Heavy.ufo" stylemapfamilyname="Ekkamai Vibe Heavy" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

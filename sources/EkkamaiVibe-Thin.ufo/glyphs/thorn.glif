@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn" format="2">
+  <unicode hex="00FE"/>
+  <unicode hex="F71A"/>
+  <outline>
+    <contour>
+      <point x="-116" y="-386" type="qcurve" smooth="yes"/>
+      <point x="-116" y="-366"/>
+      <point x="-96" y="-366" type="qcurve" smooth="yes"/>
+      <point x="-75" y="-366"/>
+      <point x="-75" y="-387" type="qcurve" smooth="yes"/>
+      <point x="-75" y="-397"/>
+      <point x="-87" y="-408"/>
+      <point x="-96" y="-408" type="qcurve" smooth="yes"/>
+      <point x="-104" y="-408"/>
+      <point x="-116" y="-396"/>
+    </contour>
+  </outline>
+</glyph>

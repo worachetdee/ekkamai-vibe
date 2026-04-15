@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="2">
+  <unicode hex="00D1"/>
+  <unicode hex="0E31"/>
+  <outline>
+    <contour>
+      <point x="-205" y="781" type="qcurve"/>
+      <point x="-186" y="764"/>
+      <point x="-160" y="764" type="qcurve" smooth="yes"/>
+      <point x="50" y="764" type="line"/>
+      <point x="50" y="740" type="line"/>
+      <point x="-160" y="740" type="line" smooth="yes"/>
+      <point x="-197" y="740"/>
+      <point x="-245" y="791"/>
+      <point x="-245" y="826" type="qcurve" smooth="yes"/>
+      <point x="-245" y="872" type="line"/>
+      <point x="-222" y="872" type="line"/>
+      <point x="-222" y="826" type="line" smooth="yes"/>
+      <point x="-222" y="814"/>
+      <point x="-214" y="791"/>
+    </contour>
+  </outline>
+</glyph>

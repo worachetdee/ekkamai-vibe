@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+  <unicode hex="00D8"/>
+  <unicode hex="0E38"/>
+  <outline>
+    <contour>
+      <point x="-102" y="-342" type="line"/>
+      <point x="-131" y="-342" type="line"/>
+      <point x="-131" y="-245" type="line" smooth="yes"/>
+      <point x="-131" y="-216"/>
+      <point x="-168" y="-176"/>
+      <point x="-194" y="-172" type="qcurve"/>
+      <point x="-194" y="-140" type="line"/>
+      <point x="-154" y="-144"/>
+      <point x="-102" y="-202"/>
+      <point x="-102" y="-244" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

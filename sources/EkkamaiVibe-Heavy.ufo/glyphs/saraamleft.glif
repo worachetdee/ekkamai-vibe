@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saraamleft" format="2">
+  <advance width="545"/>
+  <outline>
+    <contour>
+      <point x="-221" y="749" type="qcurve" smooth="yes"/>
+      <point x="-221" y="773"/>
+      <point x="-202" y="813"/>
+      <point x="-170" y="843"/>
+      <point x="-127" y="859"/>
+      <point x="-104" y="859" type="qcurve" smooth="yes"/>
+      <point x="-80" y="859"/>
+      <point x="-36" y="844"/>
+      <point x="-3" y="815"/>
+      <point x="17" y="775"/>
+      <point x="17" y="749" type="qcurve" smooth="yes"/>
+      <point x="17" y="724"/>
+      <point x="-4" y="684"/>
+      <point x="-38" y="655"/>
+      <point x="-82" y="639"/>
+      <point x="-105" y="639" type="qcurve" smooth="yes"/>
+      <point x="-129" y="639"/>
+      <point x="-171" y="655"/>
+      <point x="-202" y="684"/>
+      <point x="-221" y="725"/>
+    </contour>
+    <contour>
+      <point x="60" y="466" type="qcurve"/>
+      <point x="-13" y="534" type="line"/>
+      <point x="1" y="560"/>
+      <point x="58" y="591"/>
+      <point x="126" y="608"/>
+      <point x="196" y="613"/>
+      <point x="222" y="613" type="qcurve" smooth="yes"/>
+      <point x="264" y="613"/>
+      <point x="352" y="590"/>
+      <point x="424" y="544"/>
+      <point x="471" y="473"/>
+      <point x="471" y="425" type="qcurve" smooth="yes"/>
+      <point x="471" y="1" type="line"/>
+      <point x="357" y="1" type="line"/>
+      <point x="357" y="425" type="line" smooth="yes"/>
+      <point x="357" y="451"/>
+      <point x="328" y="484"/>
+      <point x="284" y="504"/>
+      <point x="234" y="511"/>
+      <point x="214" y="511" type="qcurve" smooth="yes"/>
+      <point x="187" y="511"/>
+      <point x="149" y="508"/>
+      <point x="116" y="499"/>
+      <point x="82" y="481"/>
+    </contour>
+  </outline>
+</glyph>

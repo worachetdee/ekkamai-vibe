@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="2">
+  <advance width="591"/>
+  <unicode hex="00D2"/>
+  <unicode hex="0E32"/>
+  <outline>
+    <contour>
+      <point x="102" y="461" type="qcurve"/>
+      <point x="24" y="537" type="line"/>
+      <point x="32" y="544"/>
+      <point x="47" y="558"/>
+      <point x="55" y="565" type="qcurve" smooth="yes"/>
+      <point x="73" y="579"/>
+      <point x="122" y="597"/>
+      <point x="175" y="608"/>
+      <point x="229" y="613"/>
+      <point x="251" y="613" type="qcurve" smooth="yes"/>
+      <point x="293" y="613"/>
+      <point x="385" y="592"/>
+      <point x="461" y="546"/>
+      <point x="510" y="475"/>
+      <point x="510" y="425" type="qcurve" smooth="yes"/>
+      <point x="510" y="1" type="line"/>
+      <point x="394" y="1" type="line"/>
+      <point x="394" y="425" type="line" smooth="yes"/>
+      <point x="394" y="450"/>
+      <point x="365" y="483"/>
+      <point x="322" y="502"/>
+      <point x="274" y="510"/>
+      <point x="254" y="510" type="qcurve" smooth="yes"/>
+      <point x="242" y="510"/>
+      <point x="207" y="508"/>
+      <point x="171" y="504"/>
+      <point x="139" y="495"/>
+      <point x="130" y="488" type="qcurve" smooth="yes"/>
+      <point x="122" y="482"/>
+      <point x="109" y="468"/>
+    </contour>
+  </outline>
+</glyph>

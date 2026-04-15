@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="2">
+  <advance width="50"/>
+  <unicode hex="00D6"/>
+  <unicode hex="0E36"/>
+  <outline>
+    <contour>
+      <point x="-477" y="664" type="line"/>
+      <point x="-477" y="765" type="line"/>
+      <point x="-268" y="765" type="line"/>
+      <point x="-268" y="791"/>
+      <point x="-248" y="834"/>
+      <point x="-214" y="866"/>
+      <point x="-169" y="884"/>
+      <point x="-144" y="884" type="qcurve" smooth="yes"/>
+      <point x="-122" y="884"/>
+      <point x="-81" y="867"/>
+      <point x="-50" y="837"/>
+      <point x="-31" y="798"/>
+      <point x="-31" y="775" type="qcurve" smooth="yes"/>
+      <point x="-31" y="751"/>
+      <point x="-50" y="711"/>
+      <point x="-82" y="681"/>
+      <point x="-124" y="664"/>
+      <point x="-147" y="664" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

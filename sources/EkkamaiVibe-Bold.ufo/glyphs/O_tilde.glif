@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="2">
+  <advance width="18"/>
+  <unicode hex="00D5"/>
+  <unicode hex="0E35"/>
+  <outline>
+    <contour>
+      <point x="-62" y="888" type="line"/>
+      <point x="-62" y="797" type="line" smooth="yes"/>
+      <point x="-62" y="775"/>
+      <point x="-79" y="735"/>
+      <point x="-109" y="706"/>
+      <point x="-149" y="689"/>
+      <point x="-171" y="689" type="qcurve" smooth="yes"/>
+      <point x="-476" y="689" type="line"/>
+      <point x="-476" y="764" type="line"/>
+      <point x="-171" y="764" type="line" smooth="yes"/>
+      <point x="-157" y="764"/>
+      <point x="-138" y="783"/>
+      <point x="-138" y="797" type="qcurve" smooth="yes"/>
+      <point x="-138" y="888" type="line"/>
+    </contour>
+  </outline>
+</glyph>
